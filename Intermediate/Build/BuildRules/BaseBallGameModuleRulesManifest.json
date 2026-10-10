@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\BaseBallGame\\Source\\BaseBallGame\\BaseBallGame.Build.cs",
+		"C:\\Unreal\\BaseBallGame\\Source\\BaseBallGame.Target.cs",
+		"C:\\Unreal\\BaseBallGame\\Source\\BaseBallGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

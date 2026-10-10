@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/BaseBallGame/Content/Maps/BaseMap.umap",
+				"C:/Unreal/BaseBallGame/Content/Blueprints/Game/BP_BBGGameModeBase.uasset",
+				"C:/Unreal/BaseBallGame/Content/Blueprints/Player/BP_BBGPlayerController.uasset",
+				"C:/Unreal/BaseBallGame/Content/Blueprints/Player/BP_BBGPlayerState.uasset",
+				"C:/Unreal/BaseBallGame/Content/Blueprints/UI/WBP_ChatInput.uasset",
+				"C:/Unreal/BaseBallGame/Content/Blueprints/UI/WBP_Notification.uasset"
+			]
+		}
+	]
+}
